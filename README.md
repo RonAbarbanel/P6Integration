@@ -1,2 +1,2 @@
 # P6Integration
-P6 access via API
+P6 Import from Excel
